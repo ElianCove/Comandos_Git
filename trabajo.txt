@@ -1,0 +1,7 @@
+git init
+git status
+git add (nombre del documento)
+git commit -m "primer repositorio"
+git branch -M main
+git remote add origin (link del repositorio en github)
+git push -u origin main 
